@@ -1,0 +1,43 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 326px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 900;
+  text-decoration: underline !important;
+  text-transform: uppercase;
+  line-height: 2;
+  letter-spacing: 3px;
+  margin: 8px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 185px;
+  width: 433px;
+  margin: 8px auto 46px;
+}
+
+.u-section-1 .u-input-1 {
+  letter-spacing: 4px;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  letter-spacing: 4px;
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
